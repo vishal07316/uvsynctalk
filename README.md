@@ -1,2 +1,0 @@
-# uvsynctalk
-video calling app
